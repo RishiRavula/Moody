@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PureSwiftUI",
+        "repositoryURL": "https://github.com/CodeSlicing/pure-swift-ui",
+        "state": {
+          "branch": null,
+          "revision": "f3cf6c8e49b19ce5076d06ad0ace841ef8f78092",
+          "version": "3.1.0"
+        }
+      },
+      {
+        "package": "PureSwiftUIDesign",
+        "repositoryURL": "https://github.com/CodeSlicing/pure-swift-ui-design.git",
+        "state": {
+          "branch": null,
+          "revision": "40489273ee4703032c7d4d185ac25743f604e158",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swiftui-vertical-tab-view",
+        "repositoryURL": "https://github.com/lorenzofiamingo/swiftui-vertical-tab-view",
+        "state": {
+          "branch": null,
+          "revision": "e029f75f9c43e52e351528a78e293a997200b9f8",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON",
+        "state": {
+          "branch": null,
+          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
